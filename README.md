@@ -1,4 +1,4 @@
-<h3 align="center" style="opacity:0.6; letter-spacing:2px;">PROJECT FRIDAY</h3>
+<h3 align="center" style="opacity:0.6; letter-spacing:2px;">PROJECT-FRIDAY</h3>
 
 <p align="center" style="opacity:0.5;">Ahar Developers Presents</p>
 
